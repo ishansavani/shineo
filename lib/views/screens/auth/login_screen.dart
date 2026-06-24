@@ -76,10 +76,7 @@ class _LoginScreenState extends State<LoginScreen> {
                             ..color = Colors.white,
                         ),
                       ),
-                      Image.asset(
-                        'assets/images/textIcon.png',
-                        height: 70,
-                      ),
+                      Image.asset('assets/images/textIcon.png', height: 70),
                     ],
                   ),
                 ),
